@@ -27,6 +27,6 @@ This project addresses user authentication challenges within subscription busine
 ## Team Member
 
 - Siddhant Chauhan
-<a href="mailto:siddhantchauhan2002@gmail.com">siddhantchauhan2002@gmail.com</a>
-[LinkedIn.com](https://www.linkedin.com/in/siddhant-chauhan-4614041b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCtNDgT2RQZWXd06srunR%2BA%3D%3D)
-[Github.com](https://github.com/sid-3q5)
+  - <a href="mailto:siddhantchauhan2002@gmail.com">siddhantchauhan2002@gmail.com</a>
+  - [LinkedIn.com](https://www.linkedin.com/in/siddhant-chauhan-4614041b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCtNDgT2RQZWXd06srunR%2BA%3D%3D)
+  - [Github.com](https://github.com/sid-3q5)
